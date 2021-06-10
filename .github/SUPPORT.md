@@ -1,4 +1,4 @@
-Seeking support?
+https://github.com/sarokamanj/redbul4/blob/master/.github/SUPPORT.md#seeking-supportSeeking support?
 We only use this issue tracker for bug reports and feature request. We are not able to provide general support or answer questions in the form of GitHub issues.
 
 For general questions about the Music Bot and use please use the dedicated support channels in our Discord server: https://discord.gg/YQ5hkQb3nA
